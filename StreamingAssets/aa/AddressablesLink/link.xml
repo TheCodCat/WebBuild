@@ -4,6 +4,7 @@
     <type fullname="IbSpecialityController" preserve="all" />
     <type fullname="IntelligenceController" preserve="all" />
     <type fullname="SpeedChangeMaterial" preserve="all" />
+    <type fullname="ThemeDataObject" preserve="all" />
     <type fullname="WebDataObject" preserve="all" />
     <type fullname="WebInteractiveController" preserve="all" />
   </assembly>
@@ -99,6 +100,7 @@
     <type fullname="UnityEngine.UIElements.VisualElement/UxmlFactory" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UIElements.VisualElement/UxmlSerializedData" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UIElements.VisualElementAsset" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UIElements.VisualTreeAsset/AssetEntry" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UIElements.VisualTreeAsset/UxmlObjectEntry" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
